@@ -223,6 +223,7 @@ video{
     }
     
 }
+
 @media (max-width:968px) {
     .header{
         font-size: 7rem;
