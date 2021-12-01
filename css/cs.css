@@ -78,4 +78,9 @@
     }
 
 }
-
+@media (max-width:968px) {
+    .btn a{
+        font-size: 2rem;
+    }
+    
+}
