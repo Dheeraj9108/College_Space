@@ -212,7 +212,7 @@ video{
 }
 @media (max-width:1440px) {
     .header span{
-        font-size: 7rem;
+        font-size: 5rem;
     }
     .container{
         margin:1rem 1rem;
@@ -226,7 +226,7 @@ video{
 
 @media (max-width:968px) {
     .header span{
-        font-size: 7rem;
+        font-size: 5rem;
     }
     .container{
         margin:2rem 2rem;
