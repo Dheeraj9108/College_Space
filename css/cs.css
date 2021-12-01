@@ -13,6 +13,10 @@
     /* overflow: hidden; */
 }
 .main_container ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     list-style: none;
 }
 .btn a{
