@@ -82,5 +82,10 @@
     .btn a{
         font-size: 2rem;
     }
-    
+    .text div {
+        font-size: 1.2rem;
+    }
+    .text span {
+        font-size: 1.5rem;
+    }
 }
