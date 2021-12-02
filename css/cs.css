@@ -79,13 +79,16 @@
 
 }
 @media (max-width:968px) {
+    .btn{
+        width: 80%;
+    }
     .btn a{
-        font-size: 2rem;
+        font-size: 1rem;
     }
     .text div {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .text span {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 }
