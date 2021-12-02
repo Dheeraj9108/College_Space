@@ -225,6 +225,7 @@ video{
 }
 
 @media (max-width:968px) {
+
     .header span{
         font-size: 5rem;
     }
@@ -236,5 +237,8 @@ video{
         width: 29rem;
         margin: 1rem 0.3rem;
     }
+    .fav li a i{
+        font-size: 2rem;
+    }
     
-}
+}}
